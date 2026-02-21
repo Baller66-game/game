@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "description": "An addictive puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300"
+  },
+  {
+    "id": "3",
+    "title": "Doodle Jump (Clone)",
+    "description": "Jump as high as you can!",
+    "url": "https://doodlejump.io/",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300"
+  },
+  {
+    "id": "4",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible.",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300"
+  },
+  {
+    "id": "5",
+    "title": "Slope",
+    "description": "Speed down the slope in this endless runner.",
+    "url": "https://slopegame.io/",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300"
+  },
+  {
+    "id": "6",
+    "title": "Cookie Clicker",
+    "description": "Click the cookie to bake more cookies!",
+    "url": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300"
+  }
+]
