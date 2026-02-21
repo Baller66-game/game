@@ -12,7 +12,13 @@
         <div style="opacity: 0.6;">Loading library...</div>
       </div>
     </div>
-    <script type="module" src="src/main.tsx"></script>
+    <script>
+      window.onerror = function(msg, url, lineNo, columnNo, error) {
+        console.error('Error: ' + msg + '\nScript: ' + url + '\nLine: ' + lineNo);
+        return false;
+      };
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
 
